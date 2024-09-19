@@ -1,7 +1,3 @@
-Certainly! Here's an enhanced and visually appealing version of your `README.md` file:
-
----
-
 # 🍽️ Restaurant Information System
 
 Welcome to the **Restaurant Information System**, a robust application designed to streamline restaurant operations, manage user interactions, and handle orders efficiently using Java and JavaFX.
