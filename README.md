@@ -28,13 +28,20 @@ Seamlessly interact with users through engaging messages and prompts, enhancing 
 ## 📸 Screenshots
 
 ### Sign-Up & Login
+![WhatsApp Image 2024-09-19 at 13 46 37](https://github.com/user-attachments/assets/58230a88-6cc0-4f0f-81bb-59115f3ee92f)
+![WhatsApp Image 2024-09-19 at 13 46 37 (1)](https://github.com/user-attachments/assets/f061ccbf-953d-4e6e-9f9d-05e5581b6100)
+![WhatsApp Image 2024-09-19 at 13 46 34](https://github.com/user-attachments/assets/06e3c473-2698-44ad-9491-901e496f1c37)
 
 
 ### Contact Us
+![WhatsApp Image 2024-09-19 at 13 46 37 (2)](https://github.com/user-attachments/assets/dee967c6-72a5-47a6-ba6c-f3107e95efd1)
 
 ### My Orders
+![WhatsApp Image 2024-09-19 at 13 46 37 (3)](https://github.com/user-attachments/assets/74e1495b-c92d-4ac2-8abb-c65ea7b550d0)
+
 
 ### Menu Management
+![WhatsApp Image 2024-09-19 at 13 46 38](https://github.com/user-attachments/assets/300cfa04-88cc-48e1-9110-d07f3d807bcd)
 
 ## 🚀 Getting Started
 
